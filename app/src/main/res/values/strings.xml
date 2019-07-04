@@ -2,5 +2,5 @@
     <string name="app_name">Casham</string>
     <string name="send_money">SEND MONEY</string>
     <string name="recent">Recent</string>
-    <string name="current_balance">$0.00</string>
+    <string name="amount">$0</string>
 </resources>
